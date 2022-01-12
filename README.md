@@ -1,4 +1,4 @@
-# CRUD
+# PREPARING PROJECT TO BUILD
 CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
 
   Using in Project
@@ -32,4 +32,6 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
         - npm run-script dev
    - .env.local
      - .env (`${NAME}`)
-   - 
+  
+  
+  # PREPARING PROJECT TO CRUD, SEQUELIZE, MYSQL
