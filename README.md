@@ -35,3 +35,8 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
   
   
   # PREPARING PROJECT TO CRUD, SEQUELIZE, MYSQL
+  - CRUD
+    - CREATE, READ, UPDATE, DELETE
+  - Sequeliza library
+    - npm add -g sequelize 
+    - npm -g i mysql2
