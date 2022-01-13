@@ -37,6 +37,13 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
   # PREPARING PROJECT TO CRUD, SEQUELIZE, MYSQL
   - CRUD
     - CREATE, READ, UPDATE, DELETE
-  - Sequeliza library
+  - Sequelize library
     - npm add -g sequelize 
     - npm -g i mysql2
+  - .env ({
+    DATABASE_HOST='localhost',
+    DATABASE_PORT='3306',
+    DATABASE_NAME='',
+    DATABASE_USER='',
+    DATABASE_PASS='',
+   })
