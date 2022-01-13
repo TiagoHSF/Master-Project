@@ -27,18 +27,22 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
      - eslint-init --node
      - yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint
    - Dotenv
+     - yarn add dotenv
      - npm add -g dotenv
    - Scripts desenvolvimento, build, start
      - npm run-script dev ("dev": "ts-node ./src/server.ts")
      - npm run-script build ("build": "tsc")
      - npm run-script start ("start": "node ./dist/server.js")
    - Express
+     - yarn add express
      - npm add express
-        - Types (npm add -D @types/express)
+        - Types (npm add -D @types/express OR yarn add -D @types/express)
         - npm install -g ts-node
         - npm run-script dev
    - .env.local
      - .env (`${NAME}`)
+   - Node dev
+     - yarn add -D ts-node-dev
   
   
   # PREPARING PROJECT TO CRUD, SEQUELIZE, MYSQL
