@@ -7,18 +7,25 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
       - .gitignore
    - NPM
       - npm init
+      - yarn init -y
    - .editorconfig
       - ident size 2
       - crlf to lf
    - Typescript
       - npm add -D typescript
+      - yarn add -D typescript
       - tsc -init
+      - yarn tsc --init
          - tsconfig.json
               - "target": "es2017", "allowJs": true, "outDir": "./dist"
    - Eslint
      - npm add -d eslint
+     - yarn add -D eslint
+     - yarn eslint --init
+     - yarn
      - npm install eslint-init -g
      - eslint-init --node
+     - yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint
    - Dotenv
      - npm add -g dotenv
    - Scripts desenvolvimento, build, start
