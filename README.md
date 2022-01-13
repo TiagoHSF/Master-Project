@@ -79,3 +79,24 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
                   primaryKey: true,
                   
                 },
+                
+          
+    
+  - Config routes
+     - routes.ts
+     - 
+         - import express from "express";
+
+            const router = express.Router();
+
+                router.post("/users", async () => {});
+            
+                router.get("/users", async () => {});
+            
+                router.get("/users/:userId", async () => {});
+            
+                router.put("/users/:userId", async () => {});
+            
+                router.delete("/users/:userId", async () => {})
+
+            export { router };
