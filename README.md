@@ -49,12 +49,33 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
   - CRUD
     - CREATE, READ, UPDATE, DELETE
   - Sequelize library
+    - yarn add sequelize mysql2
     - npm add -g sequelize 
     - npm -g i mysql2
   - .env ({
+  
     DATABASE_HOST='localhost',
+    
     DATABASE_PORT='3306',
+    
     DATABASE_NAME='',
+    
     DATABASE_USER='',
+    
     DATABASE_PASS='',
+    
    })
+   - Folder database > create Models
+     - Defining table.? Example >
+     
+                    id: {
+                    
+                  type: DataTypes.INTEGER,
+                  
+                  autoIncrement: true,
+                  
+                  allowNull: false,
+                  
+                  primaryKey: true,
+                  
+                },
