@@ -103,3 +103,10 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
             export { router };
 
 Compile without errors.
+
+To run, uses npm or yarn, node.
+  - git clone the repository.
+  - npm install.
+  - npm start.
+   OR
+  - Commands uses yarn.
