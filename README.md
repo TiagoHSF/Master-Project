@@ -102,3 +102,4 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
 
             export { router };
 
+Compile without errors.
