@@ -1,4 +1,5 @@
 # PREPARING PROJECT TO BUILD
+  This project is already for comercial use.
 CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
 
   Using in Project
@@ -100,3 +101,4 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
                 router.delete("/users/:userId", async () => {})
 
             export { router };
+
