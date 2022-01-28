@@ -110,3 +110,4 @@ To run, uses npm or yarn, node.
   - npm start.
    OR
   - Commands uses yarn.
+  - Yarn start script. 
